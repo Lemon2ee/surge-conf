@@ -9539,10 +9539,7 @@ DOMAIN-SUFFIX,entensity.net
 DOMAIN-SUFFIX,entermap.com
 DOMAIN-SUFFIX,entermediadb.net
 DOMAIN-SUFFIX,entermediadb.org
-DOMAIN-SUFFIX,enterprise.ac.uk
-DOMAIN-SUFFIX,enterprisebydesign.ac.uk
 DOMAIN-SUFFIX,enterprisepaging.com
-DOMAIN-SUFFIX,enterpriseresearch.ac.uk
 DOMAIN-SUFFIX,enterprisessl.com
 DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,entrustdatacard.com
